@@ -14,7 +14,7 @@ Follow these steps to set up and run the application on your local machine.
 ### **1️⃣ Clone the Repository**
 ```bash
 git clone <REPO_URL>
-cd my-web-app
+cd Basic-Web-App/my-web-app
 ```
 
 ---
